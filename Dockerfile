@@ -16,7 +16,7 @@ COPY log_list_1.csv .
 COPY empty_log_list.csv .
 COPY create_csv.py .
 COPY __init__.py .
-#where i only need pands library so commented requirements.txt file
+#where i only need pandas library so commented requirements.txt file
 #COPY requirements.txt .
 
 #installing prerequesites
